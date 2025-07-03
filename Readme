@@ -18,9 +18,4 @@ Currency conversion using switch statement
 
 Handles invalid choices and negative amounts
 
-🚀 How to Run:
-Compile the code using javac CurrencyExchange.java
 
-Run with java CurrencyExchange
-
-Follow the prompts in the console
