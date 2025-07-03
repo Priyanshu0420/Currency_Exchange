@@ -1,0 +1,26 @@
+💱 Currency Exchange Program in Java
+This is a simple Java console application that converts a given amount in Indian Rupees (INR) to one of the following currencies:
+
+USD (United States Dollar)
+
+WON (South Korean Won)
+
+EURO (Euro)
+
+The user is prompted to enter the amount in INR and select a target currency. The program then calculates and displays the converted amount using fixed conversion rates.
+
+🔧 Features:
+User input with Scanner
+
+Menu-driven interface
+
+Currency conversion using switch statement
+
+Handles invalid choices and negative amounts
+
+🚀 How to Run:
+Compile the code using javac CurrencyExchange.java
+
+Run with java CurrencyExchange
+
+Follow the prompts in the console
